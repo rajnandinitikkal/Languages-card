@@ -17,11 +17,11 @@ function Home() {
       </select>
       <h2 id="welmsg">{I18n("welcomeMessage")}</h2>
 
-      <p id="desmsg">{I18n("normalMessage")}</p>
-
       <h3 id="greetmsg">{I18n("greetingMessage")}</h3>
 
-        <h5 id="endmsg">{I18n("endMessage")}</h5>
+      <p id="desmsg">{I18n("normalMessage")}</p>
+
+        {/* <h5 id="endmsg">{I18n("endMessage")}</h5> */}
     </div>
   )
 }

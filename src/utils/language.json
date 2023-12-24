@@ -1,7 +1,7 @@
 {
     "en":{
        "welcomeMessage" : "welcome!",
-       "normalMessage" : "We hop you enjoy learning React!",
+       "normalMessage" : "May the Chrismas season bring only happiness and joy to you and your family! Merry Christmas and Happy New Year from our family to yours",
        "greetingMessage" : "Have a great day!",
        "endMessage":"We learned how to use i18n with React.",
         "usersStatMessage":" <studentCount> users are learning in this session."
@@ -9,7 +9,7 @@
     },
     "mr":{
         "welcomeMessage" : "स्वागत आहे !",
-        "normalMessage" : "आशा आहे की तुम्हाला React शिकण्यात आनंद येईल!",
+        "normalMessage" : "ख्रिसमस तुम्हाला आणि तुमच्या कुटुंबासाठी आनंद आणि आनंद घेऊन येवो, आमच्या कुटुंबाकडून तुम्हाला ख्रिसमस आणि नवीन वर्षाच्या शुभेच्छा",
         "greetingMessage" : " आपला दिवस चांगला जावो !",
         "endMessage":"आम्ही React मध्ये i18n चा वापर कसा करायचा हे शिकलो.",
         "usersStatMessage":" या Session मध्ये <studentCount> विद्यार्थी शिकत आहेत."
@@ -17,7 +17,7 @@
     },
     "hi":{
         "welcomeMessage" :"आपका स्वागत है!",
-        "normalMessage" : "हमे आशा है की आप React सिखाने का आनंद लेंगे!",
+        "normalMessage" : "क्रिसमस आपके और आपके परिवार के लिए खुशियां और खुशियां लेकर आए!हमारे परिवार की ओर से आपको मेरी क्रिसमस और नव वर्ष की शुभकामनाएँ!",
         "greetingMessage" : "आपका दिन अच्छा  हो! ",
         "endMessage":"हमने React मे i18n का उपयोग करना सीखा!",
         "usersStatMessage":"इस session मे <studentCount> छात्र सीख रहे है! "
