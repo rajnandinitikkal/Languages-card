@@ -1,0 +1,24 @@
+body{
+    margin: 0px;
+}
+.navbar{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(40, 39, 39);
+    align-items: center;
+    height: 80px;
+    margin-right:auto;
+    cursor: pointer;
+}
+.nav-item{
+    color: white;
+    font-size: 20px;
+    margin-right:20px;
+    margin-left: 15px;
+}
+#selectmsg{
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+    margin-left:auto;
+}

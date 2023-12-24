@@ -1,0 +1,32 @@
+body{
+    background-image: url(./Holi-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.main-container{
+    margin-left:auto;
+    margin-right:200px;
+    background-color:rgb(40, 39, 39) ;
+    height:auto;
+    width: 350px;
+    padding:15px;
+    color:white;
+    margin-top: 60px;
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+#welmsg{
+    text-align:center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#desmsg{
+    text-align:center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#greetmsg{
+    text-align:center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#endmsg{
+    text-align:center;
+}
