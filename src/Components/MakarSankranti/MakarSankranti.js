@@ -8,7 +8,7 @@ export default function MakarSankranti() {
   return (
     <>
     <Navbar/>
-      <div class="main-container">
+      <div className="main-container">
 
         <h2 id="welmsg">{I18n("welcomeMessage")}</h2>
 
@@ -19,7 +19,7 @@ export default function MakarSankranti() {
         {/* <h5 id="endmsg">{I18n("endMessage")}</h5> */}
       </div>
 
-      <div class="main-container">
+      <div className="main-container">
 
         <p id="desmsg">{I18n("endMessage")}</p>
       </div>

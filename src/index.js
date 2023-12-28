@@ -9,23 +9,23 @@ import Christmas from './Components/Christmas/Christmas';
 
 const router = createBrowserRouter([
   {
-    path:'./',
+    path:'/',
     element:<Home/>
   },
   {
-    path:'./Diwali',
+    path:"/Diwali",
     element:<Diwali/>
   },
   {
-    path:'./Holi',
+    path:"/Holi",
     element:<Holi/>
   },
   {
-    path:'./Christmas',
+    path:"/Christmas",
     element:<Christmas/>
   },
   {
-    path:'./MakarSankranti',
+    path:"/MakarSankranti",
     element:<MakarSankranti/>
   }
 ])

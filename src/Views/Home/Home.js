@@ -2,7 +2,7 @@ import React from 'react';
 import './Home.css';
 import Navbar from '../Navbar/Navbar';
 
-function Home() {
+export default function Home() {
   return (
    <>
    <Navbar/>
@@ -10,5 +10,3 @@ function Home() {
    </>
   )
 }
-
-export default Home

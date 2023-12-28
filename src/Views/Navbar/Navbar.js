@@ -1,9 +1,11 @@
-import './Navbar.css'
+import './Navbar.css';
+import { NavLink } from 'react-router-dom';
+
 
 export default function Navbar() {
     return (
-        <nav class="navbar">
-            <div class="nav-item">
+        <nav className="navbar">
+            <NavLink className="nav-item">
                 <select id="selectmsg"
                     defaultValue={localStorage.getItem("language")}
                     onChange={(e) => {
@@ -14,15 +16,13 @@ export default function Navbar() {
                     <option value="en">English</option>
                     <option value="hi">Hindi</option>
                 </select>
-            </div>
-            <div class="nav-item">Diwali </div>
-            <div class="nav-item">Chrismis</div>
-            <div class="nav-item">Holi </div>
-            <div class="nav-item">MakarSankranti </div>
-            <div class="nav-item">
-
-            </div>
-
+            </NavLink>
+            <NavLink to="/" className="nav-item">Home</NavLink>
+            <NavLink to="/Diwali" className="nav-item">Diwali </NavLink>
+            <NavLink to="/Christmas" className="nav-item">Chrismas</NavLink>
+            <NavLink to="/Holi" className="nav-item">Holi </NavLink>
+            <NavLink to="/MakarSankranti" className="nav-item">MakarSankranti </NavLink>
         </nav>
+    
     )
 }

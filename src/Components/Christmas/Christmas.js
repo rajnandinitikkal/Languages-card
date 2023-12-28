@@ -7,7 +7,7 @@ export default function Christmas() {
     return (
       <>
       <Navbar/>
-        <div class="main-container">
+        <div className="main-container">
   
           <h2 id="welmsg">{I18n("welcomeMessage")}</h2>
   
@@ -16,7 +16,7 @@ export default function Christmas() {
           <p id="desmsg">{I18n("normalMessage")}</p>
         </div>
   
-        <div class="main-container">
+        <div className="main-container">
   
           <p id="desmsg">{I18n("endMessage")}</p>
         </div>
