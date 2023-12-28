@@ -1,5 +1,5 @@
 body{
-    background-image: url(./Holi-bg.jpg);
+    background-image:image("Holi-bg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }

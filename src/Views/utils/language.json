@@ -3,8 +3,12 @@
        "welcomeMessage" : "welcome!",
        "normalMessage" : "May the Chrismas season bring only happiness and joy to you and your family! Merry Christmas and Happy New Year from our family to yours",
        "greetingMessage" : "Have a great day!",
-       "endMessage":"Sending prayers and hearty Christmas greetings to you. May you receive the most special of God’s blessings during this Christmas season!",
-        "usersStatMessage":" <studentCount> users are learning in this session."
+       "endMessage":"Sending prayers and hearty Christmas greetings to you. May you receive the most special of Gods blessings during this Christmas season!",
+        "usersStatMessage":" <studentCount> users are learning in this session.",
+        "holiMessage":"Wishing you and your family success, happiness and prosperity this Holi and always! Have a colourful and joyous Holi! May God gift you all the colours of life, colours of joy, colours of happiness, colours of friendship, colours of love and all other colours you want to paint your life in. Happy Holi.8",
+        "holiWishes":"Wishing you and your family success, happiness and prosperity this Holi and always! Have a colourful and joyous Holi!",
+        "diwaliMessage":"I hope you have a blessed, healthy and prosperous Diwali. A very happy Diwali to you and your family! With light of beautiful diyas and the holy chants, may happiness and prosperity fill your life forever! Wishing you and your Family very happy and prosperous Diwali!",
+        "DiwaliWishes":"May the light of diyas fill your home with wealth, happiness, and success that brings you joy! "
 
     },
     "mr":{
@@ -12,7 +16,11 @@
         "normalMessage" : "ख्रिसमस तुम्हाला आणि तुमच्या कुटुंबासाठी आनंद आणि आनंद घेऊन येवो, आमच्या कुटुंबाकडून तुम्हाला ख्रिसमस आणि नवीन वर्षाच्या शुभेच्छा",
         "greetingMessage" : " आपला दिवस चांगला जावो !",
         "endMessage":"तुम्हाला आशीर्वाद आणि मेरी ख्रिसमस पाठवत आहे. या ख्रिसमसच्या मोसमात तुम्हाला देवाचे विशेष आशीर्वाद मिळोत!",
-        "usersStatMessage":" या Session मध्ये <studentCount> विद्यार्थी शिकत आहेत."
+        "usersStatMessage":" या Session मध्ये <studentCount> विद्यार्थी शिकत आहेत.",
+        "holiMessage":"ही होळी तुम्हाला आणि तुमच्या कुटुंबाला यश, आनंद आणि भरभराटीची जावो ही सदैव शुभेच्छा! रंगीबेरंगी आणि आनंदी होळी जावो! देव तुम्हाला आयुष्यातील सर्व रंग, आनंदाचे रंग, आनंदाचे रंग, मैत्रीचे रंग, प्रेमाचे रंग आणि इतर सर्व रंग भेट दे ज्यात तुम्हाला तुमचे जीवन रंगवायचे आहे. होळीच्या शुभेच्छा.",
+        "holiWishes":"तुम्हाला आणि तुमच्या कुटुंबाला ही होळी आणि सदैव यश, आनंद आणि भरभराटीची जावो! रंगीबेरंगी आणि आनंदाची होळी जावो!",
+        "diwaliMessage":"मी आशा करतो की तुमची दिवाळी आनंदाची, आरोग्यदायी आणि भरभराटीची जावो. तुम्हाला आणि तुमच्या परिवाराला दिवाळीच्या खूप खूप शुभेच्छा! सुंदर दिव्यांच्या प्रकाशाने आणि पवित्र मंत्रोच्चारांनी, तुमचे जीवन सदैव आनंद आणि समृद्धीने भरून जावो! तुम्हाला आणि तुमच्या परिवाराला दिवाळीच्या खूप खूप शुभेच्छा आणि भरभराटीच्या शुभेच्छा!",
+        "DiwaliWishes":"दिव्यांचा प्रकाश तुमचे घर संपत्ती, आनंद आणि यशाने भरून जावो ज्यामुळे तुम्हाला आनंद मिळतो!"
 
     },
     "hi":{
@@ -20,7 +28,11 @@
         "normalMessage" : "क्रिसमस आपके और आपके परिवार के लिए खुशियां और खुशियां लेकर आए!हमारे परिवार की ओर से आपको मेरी क्रिसमस और नव वर्ष की शुभकामनाएँ!",
         "greetingMessage" : "आपका दिन अच्छा  हो! ",
         "endMessage":"आपको प्रार्थनाएँ और क्रिसमस की हार्दिक शुभकामनाएँ भेज रहा हूँ। इस क्रिसमस सीज़न के दौरान आपको ईश्वर का सबसे विशेष आशीर्वाद प्राप्त हो!",
-        "usersStatMessage":"इस session मे <studentCount> छात्र सीख रहे है! "
+        "usersStatMessage":"इस session मे <studentCount> छात्र सीख रहे है! ",
+        "holiMessage":"आपको और आपके परिवार को इस होली और हमेशा सफलता, सुख और समृद्धि की शुभकामनाएँ! रंगीन और आनंदमय होली मनाएं! भगवान आपको जीवन के सभी रंग, खुशी के रंग, खुशियों के रंग, दोस्ती के रंग, प्यार के रंग और अन्य सभी रंग दें जिनमें आप अपने जीवन को रंगना चाहते हैं। हैप्पी होली। ",
+        "holiWishes":"आपको और आपके परिवार को इस होली और हमेशा सफलता, खुशी और समृद्धि की शुभकामनाएं! एक रंगीन और आनंदमय होली!",
+        "diwaliMessage":"मुझे आशा है कि आपकी दिवाली मंगलमय, स्वस्थ और समृद्ध होगी। आपको और आपके परिवार को दिवाली की बहुत-बहुत शुभकामनाएँ! सुंदर दीयों की रोशनी और पवित्र मंत्रों के साथ, सुख और समृद्धि आपके जीवन को हमेशा भर दे! आपको और आपके परिवार को दिवाली की बहुत-बहुत शुभकामनाएँ और शुभकामनाएँ!",
+        "DiwaliWishes":"दीयों की रोशनी आपके घर को धन, खुशी और सफलता से भर दे जो आपको खुशी दे!"
 
     }
 }

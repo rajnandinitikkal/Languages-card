@@ -13,14 +13,12 @@ export default function Holi() {
   
           <h3 id="greetmsg">{I18n("greetingMessage")}</h3>
   
-          <p id="desmsg">{I18n("normalMessage")}</p>
-  
-          {/* <h5 id="endmsg">{I18n("endMessage")}</h5> */}
+          <p id="desmsg">{I18n("holiWishes")}</p>
         </div>
   
         <div className="main-container">
   
-          <p id="desmsg">{I18n("endMessage")}</p>
+          <p id="desmsg">{I18n("holiMessage")}</p>
         </div>
   
       </>

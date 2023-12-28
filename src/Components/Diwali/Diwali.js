@@ -11,12 +11,12 @@ export default function Diwali() {
   
           <h2 id="welmsg">{I18n("welcomeMessage")}</h2>
           <h3 id="greetmsg">{I18n("greetingMessage")}</h3>
-          <p id="desmsg">{I18n("normalMessage")}</p>
+          <p id="desmsg">{I18n("diwaliWishes")}</p>
   
         </div>
   
         <div className="main-container">
-          <p id="desmsg">{I18n("endMessage")}</p>
+          <p id="desmsg">{I18n("diwaliMessage")}</p>
         </div>
   
       </>

@@ -16,7 +16,6 @@ export default function MakarSankranti() {
 
         <p id="desmsg">{I18n("normalMessage")}</p>
 
-        {/* <h5 id="endmsg">{I18n("endMessage")}</h5> */}
       </div>
 
       <div className="main-container">
