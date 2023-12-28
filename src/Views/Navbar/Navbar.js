@@ -15,10 +15,10 @@ export default function Navbar() {
                     <option value="hi">Hindi</option>
                 </select>
             </div>
-            <div class="nav-item">Diwali Wishes</div>
-            <div class="nav-item">Chrismis Wishes</div>
-            <div class="nav-item">Holi Wishes</div>
-            <div class="nav-item">MakarSankranti Wishes</div>
+            <div class="nav-item">Diwali </div>
+            <div class="nav-item">Chrismis</div>
+            <div class="nav-item">Holi </div>
+            <div class="nav-item">MakarSankranti </div>
             <div class="nav-item">
 
             </div>

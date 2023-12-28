@@ -2,10 +2,12 @@ import React from 'react';
 import './MakarSankranti.css'
 import I18n from '../../Views/utils/I18n';
 import './MakarSankranti-bg.jpg';
+import Navbar from '../../Views/Navbar/Navbar';
 
 export default function MakarSankranti() {
   return (
     <>
+    <Navbar/>
       <div class="main-container">
 
         <h2 id="welmsg">{I18n("welcomeMessage")}</h2>

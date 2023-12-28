@@ -1,10 +1,12 @@
 import React from 'react';
 import I18n from '../../Views/utils/I18n';
 import './Diwali.css';
+import Navbar from '../../Views/Navbar/Navbar';
 
 export default function Diwali() {
     return (
       <>
+      <Navbar/>
         <div class="main-container">
   
           <h2 id="welmsg">{I18n("welcomeMessage")}</h2>

@@ -1,13 +1,13 @@
-import React from 'react'
-import MakarSankranti from '../../Components/MakarSankranti/MakarSankranti';
-// import Holi from '../../Components/Holi/Holi';
-// import Diwali from '../../Components/Diwali/Diwali';
-// import Christmas from '../../Components/Christmas/Christmas';
-
+import React from 'react';
+import './Home.css';
+import Navbar from '../Navbar/Navbar';
 
 function Home() {
   return (
-    <MakarSankranti/>
+   <>
+   <Navbar/>
+   <div>Hello Welcome to our page!</div>
+   </>
   )
 }
 
