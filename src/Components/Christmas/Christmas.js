@@ -8,8 +8,9 @@ export default function Christmas() {
   return (
     <>
       <Navbar />
-      <div>
-        <div><img src={myImg} alt="img"/></div>
+      <div class="christmas-box">
+        <div><img src={myImg} alt="img" id="christImg"/>
+        </div>
 
         <div>
           <div className="main-container">
