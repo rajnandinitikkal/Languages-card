@@ -8,7 +8,11 @@ export default function Christmas() {
   return (
     <>
       <Navbar />
-      <div class="christmas-box">
+      {/* <div class="christmas-box"> */}
+      <div class="christmasname">
+        <h1>Happy Christmas 🎄</h1>
+      </div>
+
         <div><img src={myImg} alt="img" id="christImg"/>
         </div>
 
@@ -26,7 +30,7 @@ export default function Christmas() {
 
         </div>
 
-      </div>
+      {/* </div> */}
 
     </>
   )

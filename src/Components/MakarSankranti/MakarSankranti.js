@@ -8,6 +8,9 @@ export default function MakarSankranti() {
   return (
     <>
     <Navbar/>
+    <div class="makarsankrantiname">
+      <h1>Happy MakarSankranti 🪁</h1>
+    </div>
       <div className="main-container">
 
         <h2 id="welmsg">{I18n("welcomeMessage")}</h2>

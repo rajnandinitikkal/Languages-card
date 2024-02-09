@@ -7,6 +7,9 @@ export default function Holi() {
     return (
       <>
       <Navbar/>
+      <div class="Holiname">
+        <h1>Happy Holi 🔥</h1>
+      </div>
         <div className="main-container">
   
           <h2 id="welmsg">{I18n("welcomeMessage")}</h2>

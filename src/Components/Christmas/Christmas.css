@@ -26,14 +26,17 @@
 #endmsg{
     text-align:center;
 }
-.christmas-box{
+/* .christmas-box{
     display: flex;
     justify-content: space-between;
     
-}
+} */
 #christImg{
-   
-   display: inline-block;
-   margin: 70px;
-   height: 400px;
+   margin:30px 100px ;
+   width: 86%; 
+   height: 600px;
+}
+.christmasname{
+    text-align: center;
+    font-family:cursive;
 }

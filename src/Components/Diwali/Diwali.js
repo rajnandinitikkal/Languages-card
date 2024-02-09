@@ -7,6 +7,9 @@ export default function Diwali() {
     return (
       <>
       <Navbar/>
+      <div class="Diwaliname">
+        <h1>Happy Diwali 🎇🪔</h1>
+      </div>
         <div className="main-container">
   
           <h2 id="welmsg">{I18n("welcomeMessage")}</h2>
