@@ -6,7 +6,15 @@ export default function Home() {
   return (
    <>
    <Navbar/>
-   <div>Hello Welcome to our page!</div>
+   <div>
+    <h1 class="bestwishes">Best Wishes 🎊</h1>
+    <h3 class="bestwishes">Best wishes and Good Luck Messages for All Occasions ...</h3>
+    </div>
+
+    <div class="cards">
+      <div class="item">1</div>
+      <div class="item">1</div>
+    </div>
    </>
   )
 }

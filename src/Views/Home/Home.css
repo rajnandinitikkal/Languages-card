@@ -1,0 +1,17 @@
+.bestwishes{
+    font-family: cursive;
+    padding-left: 35px;
+}
+.cards{
+    margin: 30px;
+}
+.item{
+    height: 70px;
+    width: 100%;
+    border: none;
+    background-color: pink;
+    border-radius: 20px;
+    box-shadow: inset;
+    box-shadow: 1px 1px 0px 0px black;
+    margin-top: 20px;
+}
