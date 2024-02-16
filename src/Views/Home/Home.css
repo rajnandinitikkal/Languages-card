@@ -2,11 +2,20 @@
     font-family: cursive;
     padding-left: 35px;
 }
+.goodwishesquotes{
+    font-family: cursive;
+    padding-left: 20px;
+}
+.goodwishes{
+    font-family: cursive;
+    text-align: center;
+    padding-top: 10px;
+}
 .cards{
     margin: 30px;
 }
 .item{
-    height: 70px;
+    height: auto;
     width: 100%;
     border: none;
     background-color: pink;
