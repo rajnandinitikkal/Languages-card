@@ -1,6 +1,7 @@
 import React from 'react';
 import './Home.css';
 import Navbar from '../Navbar/Navbar';
+import bestwishesimg from './Best wishes.webp';
 
 export default function Home() {
   return (
@@ -10,6 +11,8 @@ export default function Home() {
         <h1 class="bestwishes">Best Wishes 🎊</h1>
         <h3 class="bestwishes">Best wishes and Good Luck Messages for All Occasions ...</h3>
       </div>
+
+      <img src={bestwishesimg} alt='bestwishes' id="bestwishesimage"></img>
 
       <div class="cards">
         <div class="item">

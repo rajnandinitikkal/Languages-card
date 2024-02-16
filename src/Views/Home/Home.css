@@ -24,3 +24,10 @@
     box-shadow: 1px 1px 0px 0px black;
     margin-top: 20px;
 }
+#bestwishesimage{
+    justify-content: center;
+    margin-left: 160px;
+    margin-top: 30px;
+    display: inline-block;
+    height: 400px;
+}
