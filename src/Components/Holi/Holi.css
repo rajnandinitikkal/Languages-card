@@ -2,6 +2,7 @@ body{
     background-color: white;
     background-size: cover;
     background-repeat: no-repeat;
+    font-family: cursive;
 }
 .main-container{
     margin-left:auto;

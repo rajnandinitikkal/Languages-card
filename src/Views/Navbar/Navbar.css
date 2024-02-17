@@ -1,5 +1,6 @@
 body{
     margin: 0px;
+    font-family: cursive;
 }
 .navbar{
     display: flex;
@@ -22,4 +23,5 @@ body{
     border: none;
     padding: 5px;
     margin-left:auto;
+    font-family: cursive;
 }
