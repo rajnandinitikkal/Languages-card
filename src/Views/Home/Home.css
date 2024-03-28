@@ -1,7 +1,17 @@
 .bestwishes{
     font-family: cursive;
-    padding-left: 35px;
+    /* padding-left: 35px; */
+    text-align: center;
 }
+.carousel {
+    width: 100%; 
+  }
+  
+  .carousel img {
+    /* width: 100%;  */
+    height: auto; 
+  }
+
 .goodwishesquotes{
     font-family: cursive;
     padding: 5px;

@@ -1,8 +1,18 @@
 import React from 'react';
 import './Home.css';
 import Navbar from '../Navbar/Navbar';
-import bestwishesimg from './Best wishes.webp';
+import bestwish1 from './best wishes 1.avif';
+import bestwish2 from './best wishes 2.avif';
+import bestwish3 from './best wishes 3.avif';
+import bestwish4 from './best wishes 4.avif';
+// import bestwishesimg from './Best wishes.webp';
+import "flickity/css/flickity.css";
+const Flickity = require('react-flickity-component');
+// import Flickity from 'react-flickity-component'
 
+const flickityOptions = {
+  initialIndex: 2
+}
 export default function Home() {
   return (
     <>
@@ -12,7 +22,21 @@ export default function Home() {
         <h3 class="bestwishes">Best and good wishes on your special moments ...</h3>
       </div>
 
-      <img src={bestwishesimg} alt='bestwishes' id="bestwishesimage"></img>
+      <Flickity
+      className={'carousel'} 
+      elementType={'div'} 
+      options={flickityOptions}
+      disableImagesLoaded={false} 
+      reloadOnUpdate 
+      static 
+    >
+      <img style={{ marginLeft: 5, marginRight: 5 }} src={bestwish1} alt="img1"></img>
+      <img style={{ marginLeft: 5, marginRight: 5 }} src={bestwish2} alt="img2"></img>
+      <img style={{ marginLeft: 5, marginRight: 5 }} src={bestwish3} alt="img3"></img>
+      <img style={{ marginLeft: 5, marginRight: 5 }} src={bestwish4} alt="img4"></img>
+      {/* <img style={{ marginLeft: 5, marginRight: 5 }} src={bestwishesimg} alt='bestwishes'></img> */}
+    </Flickity>
+
  
       <h2 class="goodwishes"> How to wish someone "Good Luck 🤞"</h2>
          
